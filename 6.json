@@ -1,0 +1,42 @@
+{
+  "name": "GrowthGate Tulip 7",
+  "symbol": "",
+  "description": "A highly valuable flower from GrowthGate",
+  "seller_fee_basis_points": 500,
+  "image": "image.png",
+  "animation_url": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Tulip"
+    },
+    {
+      "trait_type": "pColor",
+      "value": "Nude Pink"
+    },
+    {
+      "trait_type": "sColor",
+      "value": "Sky Blue"
+    }
+  ],
+  "collection": {
+    "name": "GrowthGate NFT",
+    "family": "Tulip"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3sqYF5JAHWgQqCX8F9Q2PVHMHK2y5QS7YE8cTDQSypL7",
+        "share": 100
+      }
+    ]
+  }
+}
